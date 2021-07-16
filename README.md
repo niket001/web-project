@@ -1,1 +1,0 @@
-This is a simple web based Travel & Tour mangement project
